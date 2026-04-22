@@ -198,4 +198,5 @@ plant_disease_project/
 
 ## 👨‍💻 Author
 Bushra Basher Rimi
+
 Module: Computer Vision and AI
