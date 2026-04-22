@@ -167,6 +167,8 @@ python src/train_transfer.py
 Run prediction:
 python src/predict.py
 
+Dataset link: https://www.kaggle.com/datasets/emmarex/plantdisease
+
 ---
 
 ## 📂 Project Structure
