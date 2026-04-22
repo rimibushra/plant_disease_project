@@ -197,5 +197,5 @@ plant_disease_project/
 ---
 
 ## 👨‍💻 Author
-Your Name
+Bushra Basher Rimi
 Module: Computer Vision and AI
